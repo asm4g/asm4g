@@ -8,3 +8,11 @@ categories: jekyll update
 # jekyll을 설정하자
 
 생각보다 헷갈리는 부분이 많다. 우선 gem, ruby 등에 익숙하지 않아서 생기는 것 같다.
+
+# theme설정 하기
+
+# 배워야 할 점
+
+- theme 설정 하기
+- 나에게 특화하기
+- [] 글 올리기
