@@ -9,8 +9,8 @@
 title: Biophysicist's Blog
 email: asm4g.ksc@gmail.com
 description: 연구를 하며 든 생각들을 정리한 블로그
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://asm4g.github.io/asm4g" # the base hostname & protocol for your site
+baseurl: "/asm4g" # the subpath of your site, e.g. /blog
+url: "http://asm4g.github.io" # the base hostname & protocol for your site
 twitter_username: asm4g
 github_username:  asm4g
 paginate: 5
