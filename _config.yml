@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Gravity
-email: hemangsk@gmail.com
-description: The Liberal Jekyll Theme
+title: Biophysicist's Blog
+email: asm4g.ksc@gmail.com
+description: 연구를 하며 든 생각들을 정리한 블로그
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: hemang_kumar
-github_username:  hemangsk
+url: "http://asm4g.github.io/asm4g" # the base hostname & protocol for your site
+twitter_username: asm4g
+github_username:  asm4g
 paginate: 5
 theme-dark: false #Set to true to change to dark website theme
 
