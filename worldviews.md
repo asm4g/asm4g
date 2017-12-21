@@ -3,5 +3,5 @@ layout: archive
 title: Worldviews
 permalink: /worldviews/
 category: "worldviews"
-tagline: "it's all about perception."
+tagline: "alea iacta est/주사위는 던져졌다"
 ---

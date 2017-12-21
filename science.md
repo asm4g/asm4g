@@ -2,6 +2,6 @@
 layout: archive
 title: Science
 permalink: /science/
-tagline: "Humanity is overrated."
+tagline: "Man’s greatness lies in his power of thought. - Blaise Pascal"
 category: "science"
 ---
