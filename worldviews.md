@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Design
+title: Worldviews
 permalink: /worldviews/
 category: "worldviews"
 tagline: "it's all about perception."
