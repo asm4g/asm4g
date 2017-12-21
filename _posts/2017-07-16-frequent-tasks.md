@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: "자주 하는 작업들"
 date: 2017-07-16
 category: ["computer", "productivity"]
