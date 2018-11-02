@@ -4,15 +4,17 @@ title : About
 permalink: /about/
 ---
 
-# CV
+# Profile
 
-![snow-leopard](../imgs/Snow_Leopard_1.jpg)
+![snow-leopard](imgs/Snow_Leopard_1.jpg)
 
-# 간단한 소개
+# Biography
 
 - Born in 1978
-- Seoul National University (1997 - 2004)
-- Brown University (2006 - 2011)
+- Hanil High School (1994 - 1996)
+- B.S. in Physics, Seoul National University (1997 - 2003)
+- M.S. in Physics, Seoul National University (2004 - 2005)
+- Ph.D. in Biophysics, Brown University (2006 - 2011)
 - IBM Australia Research (2012 - 2013)
 - IBM T.J. Watson Research Center (2014 - Current)
 
