@@ -8,7 +8,7 @@
 # Site settings
 title: Biophysicist's Blog
 email: asm4g.ksc@gmail.com
-description: IBM Researcher, trained as experimental physicist, working as simulation modeler, transforming into bioinformatician
+description: IBM Researcher, trained as experimental physicist, working as simulation and modeling engineer, transforming into bioinformatician
 baseurl: "/asm4g" # the subpath of your site, e.g. /blog
 url: "http://asm4g.github.io" # the base hostname & protocol for your site
 twitter_username: asm4g
