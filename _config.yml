@@ -12,7 +12,7 @@ description: IBM Researcher, trained as experimental physicist, working as simul
 baseurl: "/asm4g" # the subpath of your site, e.g. /blog
 url: "http://asm4g.github.io" # the base hostname & protocol for your site
 twitter_username: asm4g
-github_username:  asm4g
+github_username: asm4g
 paginate: 5
 theme-dark: true #Set to true to change to dark website theme
 
